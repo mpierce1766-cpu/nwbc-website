@@ -26,6 +26,7 @@ Shared files:
 - Sunday Worship: 10:30 AM. Wednesday Bible Study: 6:30 PM. (There is no Sunday School.)
 - Address: 11021 N 1560, Helotes, TX 78023 (with Google Maps "Get Directions" links)
 - Phone: 210-275-7753 (tap-to-call on phones)
+- Pastor: Bob Gray, title Pastor (home page and About page)
 - Home page photo: the front of the church (`images/church-front-large.jpg` and `images/church-front-small.jpg`)
 
 ## Placeholders to fill in
@@ -37,7 +38,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 
 **Home**
 - [A short welcome from the pastor, two to four sentences]
-- [Pastor's name], [Pastor's title, such as Senior Pastor]
 - [Photo of the pastor or the church building]
 
 **About**
