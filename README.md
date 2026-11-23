@@ -1,1 +1,77 @@
-# nwbc-website
+# Northwest Baptist Church Website
+
+A simple, mobile-friendly website for Northwest Baptist Church. It is plain HTML and CSS, so there is nothing to install or build. It is designed to be hosted free on GitHub Pages, with the church's own domain name pointed to it.
+
+## Pages
+
+| File | Page |
+|---|---|
+| `index.html` | Home |
+| `about.html` | About Us (story, mission, beliefs, leadership) |
+| `visit.html` | Service Times & Location |
+| `sermons.html` | Sermons |
+| `events.html` | Events and weekly ministries |
+| `give.html` | Give |
+| `contact.html` | Contact Us |
+| `404.html` | "Page not found" page |
+
+Shared files:
+
+- `css/style.css`: all colors, fonts, and layout. The site colors are at the top of this file.
+- `js/main.js`: the small script that opens and closes the menu on phones.
+- `images/`: put photos and the church logo here.
+
+## Placeholders to fill in
+
+Every piece of church-specific information is shown as highlighted text in square brackets, like **[Sunday worship time]**. On the live site these appear with a yellow highlight so they are easy to spot. To find them all in the code, search for `[`.
+
+**Information that appears on every page (header and footer)**
+- [Street address] and [City, State ZIP]
+- [Church phone number] and [Church email address]
+- [Sunday School time], [Sunday worship time], [Midweek service day and time]
+
+**Home**
+- [A short welcome from the pastor, two to four sentences]
+- [Pastor's name], [Pastor's title, such as Senior Pastor]
+- [Photo of the pastor or the church building]
+- [Short description of the midweek service]
+
+**About**
+- [A short history of the church]
+- [The church's mission statement]
+- Beliefs: an introduction, plus statements on Scripture, God, Jesus Christ, salvation, and the church (add or remove sections to match the church's statement of faith)
+- Leadership: names, roles, and short biographies
+
+**Service Times & Location**
+- [Sunday evening service time, or remove this line]
+- [Where visitors should park], [Wheelchair access and accessible entrance details]
+- [Google Maps link] and [Embedded Google Map of the church location]
+- What to expect: arrival, a typical service, what to wear, children's programs
+
+**Sermons**
+- [Where sermons are posted, such as YouTube, Facebook Live, or a podcast]
+- [Embedded video of the latest sermon]
+- For each recent sermon: title, date, speaker, Scripture passage, summary, and link
+
+**Events**
+- For each event: name, date, time, location, and description
+- Weekly ministries: names, meeting times, and descriptions
+
+**Give**
+- [A short note about giving]
+- [Online giving link] from the church's giving provider
+- [Name on checks] and [Mailing address]
+- [How to give during Sunday services]
+
+**Contact**
+- [Phone number, digits only] for the tap-to-call link
+- [Email address] and [Prayer request email address]
+- [Church office days and hours]
+- Facebook and YouTube page names and links
+
+**Not yet provided**
+- Church logo (currently a simple cross icon) and preferred colors
+
+## Hosting
+
+The site runs on GitHub Pages (Settings, then Pages, then deploy from the `main` branch, root folder). A custom domain from GoDaddy or another registrar can be connected later in the same Pages settings screen.
