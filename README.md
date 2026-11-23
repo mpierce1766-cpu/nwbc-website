@@ -28,6 +28,7 @@ Shared files:
 - Phone: 210-275-7753 (tap-to-call on phones)
 - Pastor: Bob Gray, title Pastor, with his welcome message (home page and About page)
 - Home page photo: the front of the church (`images/church-front-large.jpg` and `images/church-front-small.jpg`)
+- Photo beside the pastor's message: side view of the church (`images/church-side.jpg`)
 
 ## Placeholders to fill in
 
@@ -37,7 +38,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - [Church email address]
 
 **Home**
-- [Photo of the pastor or the church building]
 
 **About**
 - [A short history of the church]

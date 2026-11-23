@@ -291,3 +291,5 @@ p { margin: 0 0 1em; }
   html { scroll-behavior: auto; }
   * { transition: none !important; }
 }
+
+.photo { width: 100%; height: auto; border-radius: var(--radius); box-shadow: 0 6px 20px rgba(0,0,0,0.12); }
