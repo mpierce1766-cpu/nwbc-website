@@ -30,14 +30,11 @@ Shared files:
 - Photo beside the pastor's message: side view of the church (`images/church-side.jpg`)
 - About page: Our Story, What We Believe (KJV), and Our Mission
 - Give page: giving note, give by mail, and give in person
-- Parking and accessibility notes on the Service Times page
+- Service Times page: parking, accessibility, and all four What to Expect boxes
 
 ## Placeholders to fill in
 
 Every piece of church-specific information is shown as highlighted text in square brackets, like **[Sunday worship time]**. On the live site these appear with a yellow highlight so they are easy to spot. To find them all in the code, search for `[`.
-
-**Service Times & Location**
-- What to expect: arrival, a typical service, what to wear, children's programs
 
 **Give**
 - [Online giving link] from the church's giving provider
