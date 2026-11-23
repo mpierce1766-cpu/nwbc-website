@@ -41,7 +41,7 @@ Every piece of church-specific information is shown as highlighted text in squar
 **About**
 - Our Story: Pastor Gray's "Family, Friends, and Faith" welcome (done)
 - What We Believe: five statements with KJV verses (done)
-- [The church's mission statement]
+- Our Mission statement (done)
 
 **Service Times & Location**
 - [Embedded Google Map of the church location] (optional; the Get Directions button already works)

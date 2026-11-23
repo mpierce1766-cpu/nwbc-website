@@ -396,3 +396,15 @@ p { margin: 0 0 1em; }
   margin-bottom: 0.15rem;
 }
 .verses q { font-family: var(--font-heading); font-style: italic; font-size: 1.05rem; }
+
+/* ---------- Our Mission (About page) ---------- */
+.mission {
+  margin-top: 3rem;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 2.25rem 1.75rem;
+  text-align: center;
+}
+.mission h2 { color: var(--color-accent); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.12em; font-family: var(--font-body); margin-bottom: 0.75rem; }
+.mission p { font-family: var(--font-heading); font-size: clamp(1.2rem, 3vw, 1.5rem); line-height: 1.5; margin: 0; }
