@@ -40,7 +40,7 @@ Every piece of church-specific information is shown as highlighted text in squar
 **Home**
 
 **About**
-- [A short history of the church]
+- Our Story: Pastor Gray's "Family, Friends, and Faith" welcome (done)
 - [The church's mission statement]
 - Beliefs: an introduction, plus statements on Scripture, God, Jesus Christ, salvation, and the church (add or remove sections to match the church's statement of faith)
 - Leadership: names, roles, and short biographies
