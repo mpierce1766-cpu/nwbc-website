@@ -61,7 +61,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 
 **Contact**
 - [Email address] and [Prayer request email address]
-- YouTube channel name and link (Facebook is done: linked on the Contact page and in the footer)
 
 **Not yet provided**
 - Church logo (currently a simple cross icon) and preferred colors
