@@ -7,10 +7,9 @@ A simple, mobile-friendly website for Northwest Baptist Church. It is plain HTML
 | File | Page |
 |---|---|
 | `index.html` | Home |
-| `about.html` | About Us (story, mission, beliefs, leadership) |
+| `about.html` | About Us (story, mission, beliefs) |
 | `visit.html` | Service Times & Location |
 | `sermons.html` | Sermons |
-| `events.html` | Events and weekly ministries |
 | `give.html` | Give |
 | `contact.html` | Contact Us |
 | `404.html` | "Page not found" page |
@@ -43,7 +42,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - Our Story: Pastor Gray's "Family, Friends, and Faith" welcome (done)
 - [The church's mission statement]
 - Beliefs: an introduction, plus statements on Scripture, God, Jesus Christ, salvation, and the church (add or remove sections to match the church's statement of faith)
-- Leadership: names, roles, and short biographies
 
 **Service Times & Location**
 - [Where visitors should park], [Wheelchair access and accessible entrance details]
@@ -54,10 +52,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - [Where sermons are posted, such as YouTube, Facebook Live, or a podcast]
 - [Embedded video of the latest sermon]
 - For each recent sermon: title, date, speaker, Scripture passage, summary, and link
-
-**Events**
-- For each event: name, date, time, location, and description
-- Weekly ministries: names, meeting times, and descriptions
 
 **Give**
 - [A short note about giving]
