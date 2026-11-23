@@ -9,7 +9,6 @@ A simple, mobile-friendly website for Northwest Baptist Church. It is plain HTML
 | `index.html` | Home |
 | `about.html` | About Us (story, mission, beliefs) |
 | `visit.html` | Service Times & Location |
-| `sermons.html` | Sermons |
 | `give.html` | Give |
 | `contact.html` | Contact Us |
 | `404.html` | "Page not found" page |
@@ -46,11 +45,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 **Service Times & Location**
 - [Embedded Google Map of the church location] (optional; the Get Directions button already works)
 - What to expect: arrival, a typical service, what to wear, children's programs
-
-**Sermons**
-- [Where sermons are posted, such as YouTube, Facebook Live, or a podcast]
-- [Embedded video of the latest sermon]
-- For each recent sermon: title, date, speaker, Scripture passage, summary, and link
 
 **Give**
 - [A short note about giving]
