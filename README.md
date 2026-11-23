@@ -24,6 +24,7 @@ Shared files:
 - Sunday Worship: 10:30 AM. Wednesday Bible Study: 6:30 PM. (There is no Sunday School.)
 - Address: 11021 N 1560, Helotes, TX 78023 (with Google Maps "Get Directions" links)
 - Phone: 210-275-7753 (tap-to-call on phones)
+- Email: graco51@yahoo.com (footer, Contact page, and the prayer request button)
 - Pastor: Bob Gray, title Pastor, with his welcome message (home page and About page)
 - Home page photo: the front of the church (`images/church-front-large.jpg` and `images/church-front-small.jpg`)
 - Photo beside the pastor's message: side view of the church (`images/church-side.jpg`)
@@ -48,9 +49,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 
 **Give**
 - [Online giving link] from the church's giving provider
-
-**Contact**
-- [Email address] and [Prayer request email address]
 
 **Not yet provided**
 - Church logo (currently a simple cross icon) and preferred colors
