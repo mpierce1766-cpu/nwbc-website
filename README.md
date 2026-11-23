@@ -49,7 +49,7 @@ Every piece of church-specific information is shown as highlighted text in squar
 **Give**
 - [A short note about giving]
 - [Online giving link] from the church's giving provider
-- [Name on checks] and [Mailing address]
+
 - [How to give during Sunday services]
 
 **Contact**
