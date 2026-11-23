@@ -37,7 +37,6 @@ Shared files:
 Every piece of church-specific information is shown as highlighted text in square brackets, like **[Sunday worship time]**. On the live site these appear with a yellow highlight so they are easy to spot. To find them all in the code, search for `[`.
 
 **Service Times & Location**
-- [Embedded Google Map of the church location] (optional; the Get Directions button already works)
 - What to expect: arrival, a typical service, what to wear, children's programs
 
 **Give**
