@@ -44,7 +44,7 @@ Every piece of church-specific information is shown as highlighted text in squar
 - Beliefs: an introduction, plus statements on Scripture, God, Jesus Christ, salvation, and the church (add or remove sections to match the church's statement of faith)
 
 **Service Times & Location**
-- [Where visitors should park], [Wheelchair access and accessible entrance details]
+- [Wheelchair access and accessible entrance details]
 - [Embedded Google Map of the church location] (optional; the Get Directions button already works)
 - What to expect: arrival, a typical service, what to wear, children's programs
 
