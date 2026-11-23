@@ -50,8 +50,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - [A short note about giving]
 - [Online giving link] from the church's giving provider
 
-- [How to give during Sunday services]
-
 **Contact**
 - [Email address] and [Prayer request email address]
 
