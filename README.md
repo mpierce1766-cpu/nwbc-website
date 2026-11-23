@@ -24,6 +24,8 @@ Shared files:
 ## Details already filled in
 
 - Sunday Worship: 10:30 AM. Wednesday Bible Study: 6:30 PM. (There is no Sunday School.)
+- Address: 11021 N 1560, Helotes, TX 78023 (with Google Maps "Get Directions" links)
+- Phone: 210-275-7753 (tap-to-call on phones)
 - Home page photo: the front of the church (`images/church-front-large.jpg` and `images/church-front-small.jpg`)
 
 ## Placeholders to fill in
@@ -31,8 +33,7 @@ Shared files:
 Every piece of church-specific information is shown as highlighted text in square brackets, like **[Sunday worship time]**. On the live site these appear with a yellow highlight so they are easy to spot. To find them all in the code, search for `[`.
 
 **Information that appears on every page (header and footer)**
-- [Street address] and [City, State ZIP]
-- [Church phone number] and [Church email address]
+- [Church email address]
 
 **Home**
 - [A short welcome from the pastor, two to four sentences]
@@ -47,7 +48,7 @@ Every piece of church-specific information is shown as highlighted text in squar
 
 **Service Times & Location**
 - [Where visitors should park], [Wheelchair access and accessible entrance details]
-- [Google Maps link] and [Embedded Google Map of the church location]
+- [Embedded Google Map of the church location] (optional; the Get Directions button already works)
 - What to expect: arrival, a typical service, what to wear, children's programs
 
 **Sermons**
@@ -66,7 +67,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - [How to give during Sunday services]
 
 **Contact**
-- [Phone number, digits only] for the tap-to-call link
 - [Email address] and [Prayer request email address]
 - [Church office days and hours]
 - Facebook and YouTube page names and links
