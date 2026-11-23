@@ -47,7 +47,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - What to expect: arrival, a typical service, what to wear, children's programs
 
 **Give**
-- [A short note about giving]
 - [Online giving link] from the church's giving provider
 
 **Contact**
