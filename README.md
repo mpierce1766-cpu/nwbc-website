@@ -61,7 +61,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 
 **Contact**
 - [Email address] and [Prayer request email address]
-- [Church office days and hours]
 - Facebook and YouTube page names and links
 
 **Not yet provided**
