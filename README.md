@@ -21,6 +21,11 @@ Shared files:
 - `js/main.js`: the small script that opens and closes the menu on phones.
 - `images/`: put photos and the church logo here.
 
+## Details already filled in
+
+- Sunday Worship: 10:30 AM. Wednesday Bible Study: 6:30 PM. (There is no Sunday School.)
+- Home page photo: the front of the church (`images/church-front-large.jpg` and `images/church-front-small.jpg`)
+
 ## Placeholders to fill in
 
 Every piece of church-specific information is shown as highlighted text in square brackets, like **[Sunday worship time]**. On the live site these appear with a yellow highlight so they are easy to spot. To find them all in the code, search for `[`.
@@ -28,13 +33,11 @@ Every piece of church-specific information is shown as highlighted text in squar
 **Information that appears on every page (header and footer)**
 - [Street address] and [City, State ZIP]
 - [Church phone number] and [Church email address]
-- [Sunday School time], [Sunday worship time], [Midweek service day and time]
 
 **Home**
 - [A short welcome from the pastor, two to four sentences]
 - [Pastor's name], [Pastor's title, such as Senior Pastor]
 - [Photo of the pastor or the church building]
-- [Short description of the midweek service]
 
 **About**
 - [A short history of the church]
@@ -43,7 +46,6 @@ Every piece of church-specific information is shown as highlighted text in squar
 - Leadership: names, roles, and short biographies
 
 **Service Times & Location**
-- [Sunday evening service time, or remove this line]
 - [Where visitors should park], [Wheelchair access and accessible entrance details]
 - [Google Maps link] and [Embedded Google Map of the church location]
 - What to expect: arrival, a typical service, what to wear, children's programs
