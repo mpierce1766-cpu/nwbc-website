@@ -9,7 +9,6 @@ A simple, mobile-friendly website for Northwest Baptist Church. It is plain HTML
 | `index.html` | Home |
 | `about.html` | About Us (story, mission, beliefs) |
 | `visit.html` | Service Times & Location |
-| `give.html` | Give |
 | `contact.html` | Contact Us |
 | `404.html` | "Page not found" page |
 
@@ -29,7 +28,7 @@ Shared files:
 - Home page photo: the front of the church (`images/church-front-large.jpg` and `images/church-front-small.jpg`)
 - Photo beside the pastor's message: side view of the church (`images/church-side.jpg`)
 - About page: Our Story, What We Believe (KJV), and Our Mission
-- Give page: giving note, give by mail, and give in person (online giving removed for now, 2026-11-27)
+- Give page removed at the church's request (2026-11-27)
 - Service Times page: parking, accessibility, and all four What to Expect boxes
 
 ## Placeholders to fill in
