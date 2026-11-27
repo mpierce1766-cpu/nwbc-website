@@ -44,4 +44,18 @@ Every piece of church-specific information is shown as highlighted text in squar
 
 ## Hosting
 
-The site runs on GitHub Pages (Settings, then Pages, then deploy from the `main` branch, root folder). A custom domain from GoDaddy or another registrar can be connected later in the same Pages settings screen.
+The site runs on GitHub Pages (Settings, then Pages, then deploy from the `main` branch, root folder).
+
+The church's domain is **northwestbaptistchurchsa.com**, registered at Cloudflare (so its DNS is managed at Cloudflare). The `CNAME` file in this folder tells GitHub Pages to serve the site at that address; do not delete it. `www.northwestbaptistchurchsa.com` redirects to the main address automatically.
+
+Cloudflare DNS records (all set to **DNS only**, grey cloud):
+
+| Type  | Name | Content |
+|-------|------|---------|
+| A     | @    | 185.199.108.153 |
+| A     | @    | 185.199.109.153 |
+| A     | @    | 185.199.110.153 |
+| A     | @    | 185.199.111.153 |
+| CNAME | www  | mpierce1766-cpu.github.io |
+
+These IP addresses come from GitHub's guide, [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
