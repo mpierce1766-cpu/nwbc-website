@@ -160,6 +160,8 @@ p { margin: 0 0 1em; }
 .hero h1 { color: #fff; margin-bottom: 0.4em; }
 .hero p { font-size: clamp(1.1rem, 2.5vw, 1.35rem); max-width: 680px; margin: 0 auto 1.75rem; }
 .hero .placeholder { color: var(--color-text); }
+.hero p.hero-verse { font-family: var(--font-heading); font-style: italic; font-size: clamp(1.2rem, 2.8vw, 1.5rem); margin-top: -0.75rem; }
+.hero-verse span { font-style: normal; font-size: 0.8em; white-space: nowrap; }
 
 /* Home page hero with the church photo.
    The photo shows in the top part; the welcome text sits on a darker band at the bottom.
